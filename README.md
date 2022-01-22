@@ -9,10 +9,7 @@ As a governance analyst it is part of your duties to assess the level of protect
 
 `What level of protection does the mechanism offer for passwords?`
 
-`What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?`
-
-Here is a sample data file containing hashes dumped together:
-
+`What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?
 
 
 After the conducted analysis it was determined that organization uses an outdated password hashing algorithm (MD5) which offers very little protection in the event of a password database leaking. It was also determined that the current password policy is not aligned with industry best practices allowing users to have short passwords (6 characters) and reuse usernames as part of passwords. 
@@ -110,7 +107,6 @@ liveltekah:3f230640b78d7e71ac5514e57935eb69 - qazxsw
 blikimore:917eb5e9d6d6bca820922a0c6f7cc28b - Pa$$word1
 johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 ```
-Complete report is available at: 
 
 
 ## Resources 
